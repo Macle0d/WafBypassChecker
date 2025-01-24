@@ -78,7 +78,7 @@ La herramienta mostrará si el WAF está activo al acceder directamente a la IP 
 
 ## Licencia
 
-Este proyecto está bajo la licencia [MIT](LICENSE). Puedes usarlo, modificarlo y distribuirlo según los términos de la licencia.
+Este proyecto está bajo la licencia [GNU](LICENSE). Puedes usarlo, modificarlo y distribuirlo según los términos de la licencia.
 
 ---
 
