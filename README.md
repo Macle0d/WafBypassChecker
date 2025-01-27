@@ -40,6 +40,7 @@ bash WafByPassChecker.sh -u <URL> [opciones]
 - `-u, --url <URL>`: Especifica la URL del sitio objetivo.
 - `-ip, --ip <IP>`: Dirección IP real del sitio.
 - `-f, --file <archivo>`: Archivo con una lista de IPs (una por línea).
+- `-exploit`: Realiza la comprobación del posible Bypass.
 
 ### Ejemplos de uso
 
